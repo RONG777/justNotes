@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-android-sdk:4.42.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b9b33f535e5e2d722ff6de9936040a8b/jetified-facebook-android-sdk-4.42.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1de91a30ee3cd37117007cbbcb9eb06b/jetified-facebook-android-sdk-4.42.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1de91a30ee3cd37117007cbbcb9eb06b/jetified-facebook-android-sdk-4.42.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1de91a30ee3cd37117007cbbcb9eb06b/jetified-facebook-android-sdk-4.42.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.42.0/6eb5edc5494057a8ac0150064c6f54f96e2cfea7/facebook-android-sdk-4.42.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.42.0/7be0a9acf42041175f0bbe89fe30326f860097c8/facebook-android-sdk-4.42.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

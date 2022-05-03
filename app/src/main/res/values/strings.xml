@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">justNotes</string>
+
+    <string name="facebook_app_id">1092755857903931</string>
+    <string name="fb_login_protocol_scheme">fb1092755857903931</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_night_summary">Switch on/off Night Mode</string>
+
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+    <string name="fab_content_desc" />
+
+    <string name="textView_title">Title</string>
+    <string name="textInput_title">Write the event title here</string>
+    <string name="textView_description">Description</string>
+    <string name="textInput_description">Write the event description here</string>
+
+    <string name="textView_beginning">Beginning of the event</string>
+    <string name="textInput_beginning_date">Beginning date</string>
+    <string name="btn_beginning_date">Date</string>
+    <string name="textInput_beginning_hour">Beginning hour</string>
+    <string name="btn_beginning_hour">Hour</string>
+
+    <string name="textView_end">End of the event</string>
+    <string name="textInput_end_date">End date</string>
+    <string name="btn_end_date">Date</string>
+    <string name="textInput_end_hour">End hour</string>
+    <string name="btn_end_hour">Hour</string>
+
+    <string name="checkBox_allDay">All day</string>
+
+    <string name="btn_addToCalendar">Add to calendar</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
+

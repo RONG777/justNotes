@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Map"
+        android:icon="@drawable/ic_map_24"
+        android:id="@+id/map_btn"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Night mode"
+        android:icon="@drawable/ic_day_24"
+        android:id="@+id/DN"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Configuration"
+        android:icon="@drawable/ic_settings_24"
+        android:id="@+id/configuration"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Favorites"
+        android:icon="@drawable/ic_favorite_24"
+        android:id="@+id/favorites"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/view_calendar"
+        android:enabled="true"
+        android:icon="@drawable/ic_calendar_24"
+        android:title="Calendar"
+        app:showAsAction="always" />
+
+    <item
+        android:title="Add note"
+        android:icon="@drawable/ic_add_note_24"
+        android:id="@+id/add_note"
+        app:showAsAction="always"
+        />
+
+</menu>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Add to calendar"
+        android:icon="@drawable/ic_calendar_24"
+        android:id="@+id/add_to_calendar"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Add an image"
+        android:icon="@drawable/ic_image_24"
+        android:id="@+id/add_image"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Add audio file"
+        android:icon="@drawable/ic_voice_24"
+        android:id="@+id/add_audio"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Add checkbox"
+        android:icon="@drawable/ic_add_check_24"
+        android:id="@+id/add_checkbox"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Add tag"
+        android:icon="@drawable/ic_baseline_label_24"
+        android:id="@+id/add_tag"
+        app:showAsAction="always"
+        />
+
+</menu>
